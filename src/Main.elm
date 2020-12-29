@@ -1,4 +1,4 @@
-module ElmMain exposing (main)
+module Main exposing (main)
 
 import App exposing (AppCommand, PageModel, initAppState, renderAppView, updateAppState)
 import Browser
